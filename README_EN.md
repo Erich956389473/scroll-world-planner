@@ -2,42 +2,42 @@ English | [中文](./README.md)
 
 ---
 
-# Sc roll World Planner
+# Scroll World Planner
 
-> PM planner for scroll-w orld immersive landing pages — brand story,  scene design, director script
+> PM planner for scroll-world immersive landing pages — brand story, scene design, director script
 
-[![GitHub](ht tps://img.shields.io/badge/GitHub-100000?styl e=for-the-badge&logo=github&logoColor=white)] (https://github.com/Erich956389473/scroll-wor ld-planner)
-[![License: MIT](https://img.shie lds.io/badge/License-MIT-yellow.svg)](https:/ /opensource.org/licenses/MIT)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erich956389473/scroll-world-planner)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## ✨ Feature s
+## ✨ Features
 
 - Brand story design
-- Scene sequence plan ning
+- Scene sequence planning
 - Tone adaptation (4 types)
-- Director s cript output
+- Director script output
 
 ## 🚀 Quick Start
 
-### Instal lation
+### Installation
 
 ```bash
-git clone https://github.com/ Erich956389473/scroll-world-planner.git
-cd sc roll-world-planner
+git clone https://github.com/Erich956389473/scroll-world-planner.git
+cd scroll-world-planner
 ```
 
 ### Usage
 
-Please ref er to the [README](README.md) for detailed us age instructions.
+Please refer to the [README](README.md) for detailed usage instructions.
 
 ## 📦 Tech Stack
 
-- **La nguage:** Markdown (Agent Skill)
-- **License: ** MIT
+- **Language:** Markdown (Agent Skill)
+- **License:** MIT
 
 ## 📄 License
 
-MIT License - see [L ICENSE](LICENSE)
+MIT License - see [LICENSE](LICENSE)
 
 ---
 
-**Author:** Erich Lee  | [GitHub](https://github.com/Erich956389473) 
+**Author:** Erich Lee | [GitHub](https://github.com/Erich956389473)
